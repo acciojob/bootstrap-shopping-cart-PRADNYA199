@@ -37,7 +37,7 @@ p{
 	background-color: #f7fbff;
 	border-top:#5ea4f3;
 }
-	.content{
+	.row{
 		display:flex;
 	}
 .col-lg-4.list{
