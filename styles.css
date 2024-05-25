@@ -7,13 +7,23 @@ p{
 	font-size : 15px;
 	align-items:center;
 	}
-.product>h3{
+.product-details>h3{
 	color : #3b99e0;
 	font-size : 15px;
 	/* align-items:center; */
 	
 	}
-.product{
+.product-block
+{
 	display:flex;
+}
+.product-details{
+	justify-content:space-around;
+	margin-left:20px;
+}
+	.Product-Quantity{
+	justify-content:space-around;
+	margin-left:20px;
+		padding:20px;
+}
 	
-	}
