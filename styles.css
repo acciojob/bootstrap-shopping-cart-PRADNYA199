@@ -3,6 +3,10 @@
     color : #3b99e0;
 	text-align:center;
   }
+.col-lg-4{
+	background-color: white;
+	border-top:#5ea4f3;
+}
 p{
 	font-size : 15px;
 	align-items:center;
@@ -26,4 +30,19 @@ p{
 	margin-left:20px;
 		padding:20px;
 }
-	
+.col-lg-4{
+	background-color: #f7fbff;
+	border-top:#5ea4f3;
+}
+	.row{
+		display:flex;
+	}
+.col-lg-4.list{
+	justify-content:space-around;
+	padding:20px;
+}
+.price{
+	justify-content:space-around;
+	margin-left:20px;
+		padding:20px;
+}
